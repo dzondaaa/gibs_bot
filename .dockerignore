@@ -1,0 +1,6 @@
+.env
+nastaveni.json
+stav_spisu.json
+__pycache__/
+*.pyc
+.git/
